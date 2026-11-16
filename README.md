@@ -1,3 +1,5 @@
+[🌐 Live Demo — Visit VELMONT](https://velora-psi-three.vercel.app/)
+
 # VELORA - E-Commerce Clothing Store
 
 A complete, production-quality full-stack e-commerce platform for clothing retail built with React (frontend) and Node.js/Express (backend).
